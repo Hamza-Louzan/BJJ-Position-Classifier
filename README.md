@@ -1,6 +1,6 @@
-![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNhYWNwb3N0NWpreDE0c3hxOTViejZhaXpyNno0cmp0cG9tYXlkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e5Magkf7zdXgYSf8g8/giphy.gif))
-
 # BJJ Position Detection
+
+![BJJ Position Detection Demo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNhYWNwb3N0NWpreDE0c3hxOTViejZhaXpyNno0cmp0cG9tYXlkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e5Magkf7zdXgYSf8g8/giphy.gif)
 
 This project uses computer vision and machine learning to automatically detect and classify Brazilian Jiu-Jitsu (BJJ) positions from images. The system detects the poses of two athletes and predicts the BJJ position they are in.
 
