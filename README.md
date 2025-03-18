@@ -1,15 +1,10 @@
 # BJJ Position Detection
 
-![BJJ Position Detection Demo](images/9nta28.gif)
 
 <p align="center">
   <img src="images/9nta28.gif" />
 </p>
 
-
-<p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
-</p>
 This project uses computer vision and machine learning to automatically detect and classify Brazilian Jiu-Jitsu (BJJ) positions from images. The system detects the poses of two athletes and predicts the BJJ position they are in.
 
 ## Features
