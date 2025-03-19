@@ -101,3 +101,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - The [MediaPipe](https://github.com/google/mediapipe) project for pose estimation
 - TensorFlow and Keras for the neural network framework
+- - Vicos.si resources
